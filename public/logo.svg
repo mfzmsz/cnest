@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300">
+  <text x="0" y="150" font-family="Arial" font-size="100" font-weight="bold">
+    <tspan x="0" y="150" fill="#E26BBC">C</tspan>
+    <tspan x="80" y="150" fill="#B569D7">O</tspan>
+    <tspan x="160" y="150" fill="#9568EA">D</tspan>
+    <tspan x="240" y="150" fill="#7466FE">E</tspan>
+    <tspan x="0" y="250" fill="#E26BBC">N</tspan>
+    <tspan x="80" y="250" fill="#B569D7">E</tspan>
+    <tspan x="160" y="250" fill="#9568EA">S</tspan>
+    <tspan x="240" y="250" fill="#7466FE">T</tspan>
+  </text>
+</svg>
